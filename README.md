@@ -1,2 +1,3 @@
 # BU-CS660-solution
-the solution
+
+## 微信：scs_ryan
